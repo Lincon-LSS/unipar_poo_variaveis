@@ -1,0 +1,15 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        String nome = "julia";
+        int numero = 8;
+        short npeq = 25;
+        boolean acerto = false;
+        float reais = 2;
+        String funcionarios = "Marcos";
+        int ano = 2021;
+        long milhoes = 1000000;
+        byte um = 1;
+        boolean escolha = true;
+    }
+}
