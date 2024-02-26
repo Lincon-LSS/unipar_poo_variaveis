@@ -1,0 +1,15 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        1. nomeProduto
+        2. precoProduto
+        3. marcadoProduto
+        4. quantidadeProduto
+        5. descricaoProduto
+        6. nomeProduto
+        7. numeroProduto
+        8. precodoProduto
+        9. estoqueDisponivel
+        10. totaldeProdutos
+    }
+}
