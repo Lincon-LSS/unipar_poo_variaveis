@@ -1,0 +1,36 @@
+class Produtos {
+    public static void main(String[] args) {
+        String nomeSmartphone = "Galaxy a14";
+        String marcaSmartphone = "Samsung";
+        double precoSmartphone = 1999.99;
+        int estoqueSmartphone = 100;
+        
+        String nomeLaptop = "Galaxy Book S";
+        String marcaLaptop = "Samsung";
+        double precoLaptop = 10999.99;
+        int estoqueLaptop = 50;
+        
+        String nomeFone = "w800bt";
+        String marcaFone = "Edifier";
+        double precoFone = 250.50;
+        int estoqueFone = 555;
+        
+        System.out.println("Dados do Smartphone: ");
+        System.out.println("Nome do Smartphone: " + nomeSmartphone);
+        System.out.println("Marca do Smartphone: " + marcaSmartphone);
+        System.out.println("Preco do Smartphone: " + precoSmartphone);
+        System.out.println("Quantidade em estoque do Smartphone: " + estoqueSmartphone);
+        
+        System.out.println("Dados do Laptop: ");
+        System.out.println("Nome do Laptop: " + nomeLaptop);
+        System.out.println("Marca do Laptop: " + marcaLaptop);
+        System.out.println("Preco do Laptop: " + precoLaptop);
+        System.out.println("Quantidade em estoque do Laptop: " + estoqueLaptop);
+        
+        System.out.println("Dados do Fone Bluetooth: ");
+        System.out.println("Nome Fone Bluetooth: " + nomeFone);
+        System.out.println("Marca do Fone Bluetooth: " + marcaFone);
+        System.out.println("Preco do Fone Bluetooth: " + precoFone);
+        System.out.println("Quantidade em estoque do Fone Bluetooth: " + estoqueFone);
+    }
+}
