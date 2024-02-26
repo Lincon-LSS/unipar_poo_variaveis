@@ -1,0 +1,9 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        String nomeProduto = "sabonete";
+        String categoriaProduto = "alimento";
+        double precoUnitario = 4,50;
+        int quantidadeEstoque = 50;
+    }
+}
