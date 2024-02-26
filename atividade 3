@@ -1,0 +1,11 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        
+        String nomealuno = "Lincon";
+        int idadealuno = 8;
+        double nota1 = 7,6;
+        double nota2 = 5;
+        double media = 6,3;
+    }
+}
